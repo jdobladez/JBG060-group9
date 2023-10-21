@@ -1,0 +1,97 @@
+state_name,region,year,idp,returnee,total
+Central Equatoria,Equatoria,2015,26613,21232,47845
+Central Equatoria,Equatoria,2016,108780,1321,110101
+Central Equatoria,Equatoria,2017,21686,39306,60992
+Central Equatoria,Equatoria,2018,31057,37471,68528
+Central Equatoria,Equatoria,2019,7513,6512,14025
+Central Equatoria,Equatoria,2021,31639,32102,63741
+Central Equatoria,Equatoria,2022,72189,62407,134596
+Central Equatoria,Equatoria,2023,40334,44915,85249
+Eastern Equatoria,Equatoria,2015,17097,6243,23340
+Eastern Equatoria,Equatoria,2016,27314,6798,34112
+Eastern Equatoria,Equatoria,2017,15400,38766,54166
+Eastern Equatoria,Equatoria,2018,2715,44869,47584
+Eastern Equatoria,Equatoria,2019,5450,11441,16891
+Eastern Equatoria,Equatoria,2021,5921,27551,33472
+Eastern Equatoria,Equatoria,2022,16091,38709,54800
+Eastern Equatoria,Equatoria,2023,6706,22263,28969
+Jonglei,Greater Upper Nile,2015,24535,54601,79136
+Jonglei,Greater Upper Nile,2016,24919,42243,67162
+Jonglei,Greater Upper Nile,2017,37645,70505,108150
+Jonglei,Greater Upper Nile,2018,33707,32857,66564
+Jonglei,Greater Upper Nile,2019,2647,23464,26111
+Jonglei,Greater Upper Nile,2021,49852,33331,83183
+Jonglei,Greater Upper Nile,2022,91297,57805,149102
+Jonglei,Greater Upper Nile,2023,133414,54943,188357
+Lakes,Bahr El Ghazal,2015,83731,9153,92884
+Lakes,Bahr El Ghazal,2016,30389,4893,35282
+Lakes,Bahr El Ghazal,2017,27548,9909,37457
+Lakes,Bahr El Ghazal,2018,20005,21768,41773
+Lakes,Bahr El Ghazal,2019,4740,15634,20374
+Lakes,Bahr El Ghazal,2021,31063,15525,46588
+Lakes,Bahr El Ghazal,2022,35361,24321,59682
+Lakes,Bahr El Ghazal,2023,13495,11195,24690
+Northern Bahr el Ghazal,Bahr El Ghazal,2015,9727,11134,20861
+Northern Bahr el Ghazal,Bahr El Ghazal,2016,5651,14946,20597
+Northern Bahr el Ghazal,Bahr El Ghazal,2017,25864,24756,50620
+Northern Bahr el Ghazal,Bahr El Ghazal,2018,13559,17750,31309
+Northern Bahr el Ghazal,Bahr El Ghazal,2019,261,13189,13450
+Northern Bahr el Ghazal,Bahr El Ghazal,2021,2385,7961,10346
+Northern Bahr el Ghazal,Bahr El Ghazal,2022,6722,10974,17696
+Northern Bahr el Ghazal,Bahr El Ghazal,2023,13741,27824,41565
+Unity,Greater Upper Nile,2015,93328,7396,100724
+Unity,Greater Upper Nile,2016,41270,15017,56287
+Unity,Greater Upper Nile,2017,51201,35313,86514
+Unity,Greater Upper Nile,2018,15586,24782,40368
+Unity,Greater Upper Nile,2019,947,16423,17370
+Unity,Greater Upper Nile,2021,92335,25612,117947
+Unity,Greater Upper Nile,2022,96494,35075,131569
+Unity,Greater Upper Nile,2023,80685,18862,99547
+Upper Nile,Greater Upper Nile,2015,38738,1818,40556
+Upper Nile,Greater Upper Nile,2016,33812,10145,43957
+Upper Nile,Greater Upper Nile,2017,50198,26466,76664
+Upper Nile,Greater Upper Nile,2018,17814,21605,39419
+Upper Nile,Greater Upper Nile,2019,7822,22231,30053
+Upper Nile,Greater Upper Nile,2021,29354,64111,93465
+Upper Nile,Greater Upper Nile,2022,52509,71969,124478
+Upper Nile,Greater Upper Nile,2023,26719,68033,94752
+Warrap,Bahr El Ghazal,2015,3230,60,3290
+Warrap,Bahr El Ghazal,2016,11761,116,11877
+Warrap,Bahr El Ghazal,2017,25926,340,26266
+Warrap,Bahr El Ghazal,2018,26144,170,26314
+Warrap,Bahr El Ghazal,2019,5673,1030,6703
+Warrap,Bahr El Ghazal,2021,15165,50125,65290
+Warrap,Bahr el Ghazal,2022,70539,177249,247788
+Warrap,Bahr El Ghazal,2023,28979,90464,119443
+Western Bahr el Ghazal,Bahr El Ghazal,2015,8986,3876,12862
+Western Bahr el Ghazal,Bahr El Ghazal,2016,24880,14712,39592
+Western Bahr el Ghazal,Bahr El Ghazal,2017,72256,37405,109661
+Western Bahr el Ghazal,Bahr El Ghazal,2018,62753,35166,97919
+Western Bahr el Ghazal,Bahr El Ghazal,2019,8375,22898,31273
+Western Bahr el Ghazal,Bahr El Ghazal,2021,209,35417,35626
+Western Bahr el Ghazal,Bahr El Ghazal,2022,985,19743,20728
+Western Bahr el Ghazal,Bahr El Ghazal,2023,316,18995,19311
+Western Equatoria,Equatoria,2015,13331,870,14201
+Western Equatoria,Equatoria,2016,33302,1370,34672
+Western Equatoria,Equatoria,2017,22307,40726,63033
+Western Equatoria,Equatoria,2018,28639,46957,75596
+Western Equatoria,Equatoria,2019,8840,16147,24987
+Western Equatoria,Equatoria,2021,31435,33229,64664
+Western Equatoria,Equatoria,2022,14178,40073,54251
+Western Equatoria,Equatoria,2023,6285,26280,32565
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
