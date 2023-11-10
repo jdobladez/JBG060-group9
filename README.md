@@ -8,6 +8,7 @@ Welcome to our repository, housing the culmination of our efforts in response to
 | topic_modelling.ipynb | Contains our exploration into topic modeling using BERTopic |
 | guided_topic_modeling.ipynb | Contains our implementation of topic modeling using a guided learning approach with seed topics |
 | Assylum Seekers.ipynb | Contains the exploration of data on refugees coming in, going out and internally displaced in South Sudan | 
+| openai_sentiment.ipynb | Our brief exploration of implementing sentiment analysis using ChatGPT |
 
 
 
