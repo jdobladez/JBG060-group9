@@ -10,6 +10,8 @@ Welcome to our repository, housing the culmination of our efforts in response to
 | Assylum Seekers.ipynb | Contains the exploration of data on refugees coming in, going out and internally displaced in South Sudan | 
 | openai_sentiment.ipynb | Our brief exploration of implementing sentiment analysis using ChatGPT |
 |logistic_regression.ipynb|Contains the Regularized Logistic Regression model and plot regarding number of occurrences|
+| RFC_RFR_GBR.ipynb | Contains the Random Forest Regressor, Random Forest Classifier, and Gradient Boosting Regressor and plots on performance and overfitting|
+| oil_data_plots.ipynb | Contains our exploration on oil production, consumption, revenue, and usage in South Sudan 
 
 
 ## Requirements
