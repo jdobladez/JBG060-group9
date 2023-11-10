@@ -12,6 +12,8 @@ Welcome to our repository, housing the culmination of our efforts in response to
 |logistic_regression.ipynb|Contains the Regularized Logistic Regression model and plot regarding number of occurrences|
 | RFC_RFR_GBR.ipynb | Contains the Random Forest Regressor, Random Forest Classifier, and Gradient Boosting Regressor and plots on performance and overfitting|
 | oil_data_plots.ipynb | Contains our exploration on oil production, consumption, revenue, and usage in South Sudan 
+| missing_data_exploration.ipynb | Explores the trends & distribution of missing IPC data on a quarterly basis; IPC correlation with other food crisis variables; Food_price_index exploration across regions and years; Implementation of KNN imputation test |
+| reg_imputation.ipynb | Implements and evaluates the Regression Imputation method using the data file food_crises_updated.csv on each of the 3 administrative regions separately and on a quarterly basis over the years, starting 2009. Additionally, checks for changes in district and population dynamics over the years and then implements IPC Generalization over administrative regions using 2 weighted mean approaches - population wise weights, population density wise weights. |
 
 
 ## Requirements
