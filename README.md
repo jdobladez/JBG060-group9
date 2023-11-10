@@ -15,6 +15,7 @@ Welcome to our repository, housing the culmination of our efforts in response to
 | missing_data_exploration.ipynb | Explores the trends & distribution of missing IPC data on a quarterly basis; IPC correlation with other food crisis variables; Food_price_index exploration across regions and years; Implementation of KNN imputation test |
 | reg_imputation.ipynb | Implements and evaluates the Regression Imputation method using the data file food_crises_updated.csv on each of the 3 administrative regions separately and on a quarterly basis over the years, starting 2009. Additionally, checks for changes in district and population dynamics over the years and then implements IPC Generalization over administrative regions using 2 weighted mean approaches - population wise weights, population density wise weights. |
 | news_grabber.ipynb | Contains the tool to scrape more news articles regarding South Sudan from Sudan Tribune |
+| Correlation articles IPC.ipynb | Contains plots of correlation environmental factors and hunger plus some other unused plots |
 
 ## Requirements
 To install the requirements open Terminal (macOS)/Command Prompt (Windows) and run pip install -r requirements.txt. If you create a new environment in PyCharm, an icon should appear to install requirements. The code runs with Python 3.12.
